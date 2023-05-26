@@ -8,6 +8,15 @@ function App() {
         <h1>Weather App</h1>
         <Weather />
       </header>
+      <p>
+        <a
+          href="https://github.com/sabrinaaileen/training_weather"
+          target="_blank"
+        >
+          Open-source Code
+        </a>{" "}
+        by Sabrina Aileen Hodapp
+      </p>
     </div>
   );
 }
