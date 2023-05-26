@@ -12,6 +12,7 @@ function App() {
         <a
           href="https://github.com/sabrinaaileen/training_weather"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source Code
         </a>{" "}
